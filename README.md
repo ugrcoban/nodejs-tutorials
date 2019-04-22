@@ -16,4 +16,4 @@ C:\Users\Your Name>npm install packagename
 ## Documentation
 
 * [Nodejs - Download](https://nodejs.org/)
-* [Nodejs - W3Schools](https://www.w3schools.com/nodejs/default.asp)
+* [Nodejs - W3Schools Lessons](https://www.w3schools.com/nodejs/default.asp)
