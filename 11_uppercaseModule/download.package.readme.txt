@@ -1,0 +1,12 @@
+Downloading a package; "NPM" to download the package you want.
+
+I want to download a package called "upper-case":
+C:\Users\Your Name>npm install upper-case
+
+
+My project folder structure:
+C:\Users\My Name\node_modules\upper-case
+
+
+USE:
+var uc = require('upper-case');
