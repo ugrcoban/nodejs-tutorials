@@ -2,11 +2,11 @@
 Node.js - Basic tutorials for beginners
 
 
-# Using node.js
+# Run node.js
 C:\Users\Your Name>node file.js
 
 
-# Package update
+# Load package
 C:\Users\Your Name>npm install packagename
 
 
